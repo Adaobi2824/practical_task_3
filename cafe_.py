@@ -18,7 +18,7 @@ stock_dict = {'cupcakes' : 800,
          'cappucino': 1150,
          'black coffee': 1000}
 
-menu_values = stock_dict.values()
+stock_values = stock_dict.values()
 
 price_dict = {'cupcakes' : 0.75,
          'croissants': 1.15,
