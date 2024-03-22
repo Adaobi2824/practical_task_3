@@ -8,7 +8,7 @@ Then calculate and print the total stock value.
 
 menu_items = ['cupcakes', 'croissants', 'pain au chocolat', 'cinnamon rolls', 'iced latte', 'hot chocolate', 'latte', 'cappucino', 'black coffee']
 
-menu_dict = {'cupcakes' : 800,
+stock_dict = {'cupcakes' : 800,
          'croissants': 950,
          'pain au chocolat': 950,
          'cinnamon rolls': 700, 
@@ -18,7 +18,7 @@ menu_dict = {'cupcakes' : 800,
          'cappucino': 1150,
          'black coffee': 1000}
 
-menu_values = menu_dict.values()
+menu_values = stock_dict.values()
 
 price_dict = {'cupcakes' : 0.75,
          'croissants': 1.15,
